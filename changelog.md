@@ -3,6 +3,9 @@
 > For developers:
 > Please write the latest log on top
 
+###Version 0.0.3
+Trivial to Basic CI website Conversion
+
 ### Version 0.0.2
 Static to trivial website conversion using MVC model
 
