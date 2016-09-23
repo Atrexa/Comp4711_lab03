@@ -3,6 +3,9 @@
 > For developers:
 > Please write the latest log on top
 
+### Version 0.0.2
+Static to trivial website conversion using MVC model
+
 ### Version 0.0.1
 1. initialize the project
 2. Fork the repository and rename.
